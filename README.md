@@ -39,10 +39,8 @@ This project includes the following BA deliverables:
 
 - Microsoft Excel
 - Power BI
-- Business Requirement Documentation
-- Functional Requirement Documentation
-- UAT Checklist
-- Process Flow Mapping
+- Figma
+- draw.io
 
 ### Project Outcome
 
